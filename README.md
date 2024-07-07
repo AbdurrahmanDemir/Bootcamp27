@@ -5,11 +5,15 @@ Unity 27
 
 ### **Takım Üyeleri**
 
-_Abdurrahman Demir: Developer
+Abdurrahman Demir: Developer
+
 Arif Emre Damarcı: Developer
+
 Hazal Karayiğit: Developer 
+
 Mert Ayhan: Product Owner/Developer
-Raziye Büşra Gökşin:  Scrum Master_
+
+Raziye Büşra Gökşin:  Scrum Master
 
 
 ### **Oyun İsmi**
