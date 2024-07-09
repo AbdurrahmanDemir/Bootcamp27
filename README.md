@@ -57,13 +57,17 @@ Toplantı ve Whatsapp ScreenShotları:
 
 <img width="650" alt="Ekran Resmi 2024-07-09 20 58 21" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/1f5c3dd0-c1e0-460c-a4ac-6d3d4690c0f3">
 <img width="643" alt="Ekran Resmi 2024-07-09 20 58 07" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/46ea6e7f-6719-4dcf-a44c-df3595b6f941">
-![wp ss](https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/5a27457f-d690-4497-a0d1-3d63c10411cf)
+
+<img width="643" alt="Ekran Resmi 2024-07-09 20 58 07" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/7fd44f95-6c73-4d6f-8607-8d4c23bd36ae">
 
 
 
-Sprint 1 board update: Sprint Board Screenshot:
+
+**Sprint 1 board update: Sprint Board Screenshot:**
 
 <img width="1200" alt="Ekran Resmi 2024-07-07 14 31 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/fcc2af69-5db8-4ebc-a53b-1844fb3c10f7">
+
+
 
 Ürün Durumu Ekran Görüntüleri: 
   
@@ -72,7 +76,9 @@ Sprint 1 board update: Sprint Board Screenshot:
 
 ### **Sprint Review:**
 
-Sprint Review katılımcıları: Abdurrahman Demir, Arif Emre Damarcı, Hazal Karayiğit, Mert Ayhan, Raziye Büşra Gökşin
+**Sprint Review katılımcıları:** Abdurrahman Demir, Arif Emre Damarcı, Hazal Karayiğit, Mert Ayhan, Raziye Büşra Gökşin
+
+
 Map ve karakterlerin sayısına, pixel art bir tasarım diline hakim olmasına karar verilmiştir.
 Roller ile ilgili düzenleme yapılmıştır.
 Backlog oluşturularak, görev paylaşımı yapılmıştır.
@@ -81,5 +87,10 @@ Product Backlog oluşturulmuştur.
 
 ### **Sprint Retrospective:**
 
+Sprint başında iletişim kanalı olarak Slack kullanılırken iletişim aksamalarına neden olduğu için ana iletişim kanalının Whatsapp olmasına karar verilmiştir. 
+Roller ile ilgili düzenleme yapılmıştır.
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
-
+### **Jüriye Not:**
+Takım üyeleri güncellenen takım listesiyle bir araya geldiğinden 25 hazirana kadar herhangi bir çalışma yapmamız mümkün olamamıştır. 
