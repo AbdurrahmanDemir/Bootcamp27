@@ -25,7 +25,6 @@ Space Agent
 
 https://app.asana.com/0/1207732907689169/1207733343701554
 
-
 ### **Oyun Açıklaması**
 
 Space Agent, 6 kişiye kadar oynanabilen, oyuncuların birbirleriyle mücadele ettikleri, harita üzerinde çeşitli mini oyunları tamamlayarak ve birbirlerini oyun dışı bırakarak büyük hedefe ulaşmayı amaçladıkları bir 2D oyundur.
@@ -34,7 +33,9 @@ Space Agent, 6 kişiye kadar oynanabilen, oyuncuların birbirleriyle mücadele e
 ### **Oyun Özellikleri**
 - 2D
 - Multiplayer
-- Hedef Kitle
+
+
+### **Hedef Kitle**
 - Rekabetçi oyuncular
 - Çok oyunculu oyun sevenler
 - Gençler ve genç yetişkinler
@@ -45,22 +46,28 @@ Space Agent, 6 kişiye kadar oynanabilen, oyuncuların birbirleriyle mücadele e
 
 ### **SPRINT 1**
 
+Sprint içi puan değerlendirmesi 12 olarak belirlenmiştir.
+Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+
+
 Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. 
-Sprint Başlangıç ve Sprint Review toplantıları gerçekleştirilmiştir.
-Product Backlog oluşturulmuştur.
 
 
+Toplantı ve Whatsapp ScreenShotları:
 
-Toplantı ve Whatsapp ScreenShotları
+<img width="650" alt="Ekran Resmi 2024-07-09 20 58 21" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/1f5c3dd0-c1e0-460c-a4ac-6d3d4690c0f3">
+<img width="643" alt="Ekran Resmi 2024-07-09 20 58 07" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/46ea6e7f-6719-4dcf-a44c-df3595b6f941">
+![wp ss](https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/5a27457f-d690-4497-a0d1-3d63c10411cf)
+
 
 
 Sprint 1 board update: Sprint Board Screenshot:
 
+<img width="1200" alt="Ekran Resmi 2024-07-07 14 31 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/fcc2af69-5db8-4ebc-a53b-1844fb3c10f7">
 
 Ürün Durumu Ekran Görüntüleri: 
   
-
-
+![db4cf23c-5c9b-4902-8583-72e54f73b75d](https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/42d4c028-757e-4686-b2ee-2e5eed387a60)
 
 
 ### **Sprint Review:**
@@ -69,4 +76,10 @@ Sprint Review katılımcıları: Abdurrahman Demir, Arif Emre Damarcı, Hazal Ka
 Map ve karakterlerin sayısına, pixel art bir tasarım diline hakim olmasına karar verilmiştir.
 Roller ile ilgili düzenleme yapılmıştır.
 Backlog oluşturularak, görev paylaşımı yapılmıştır.
+Sprint Başlangıç ve Sprint Review toplantıları gerçekleştirilmiştir.
+Product Backlog oluşturulmuştur.
+
+### **Sprint Retrospective:**
+
+
 
