@@ -44,10 +44,10 @@ Space Agent, 6 kişiye kadar oynanabilen, oyuncuların birbirleriyle mücadele e
 - PC oyuncuları
 
 
-### **SPRINT 1**
+### **SPRINT-1**
 
-Sprint içi puan değerlendirmesi 12 olarak belirlenmiştir.
-Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+Sprint içi tamamlanması gereken puan: 12.
+Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 
 
 Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. 
