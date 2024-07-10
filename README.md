@@ -66,6 +66,13 @@ Toplantı ve Whatsapp ScreenShotları:
 
 
 
+**Toplantı Notları:**
+
+<img width="516" alt="Ekran Resmi 2024-07-10 12 03 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/a026b260-1767-4b37-b593-9a574611f945">
+
+
+
+
 **Sprint 1 board update: Sprint Board Screenshot:**
 
 <img width="1200" alt="Ekran Resmi 2024-07-07 14 31 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/fcc2af69-5db8-4ebc-a53b-1844fb3c10f7">
