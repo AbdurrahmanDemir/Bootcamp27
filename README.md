@@ -18,8 +18,7 @@ Raziye Büşra Gökşin:  Scrum Master
 
 ### **Oyun İsmi**
 
-Space Agent
-
+Super Tower
 
 ### **Product Backlog URL**
 
@@ -27,21 +26,81 @@ https://app.asana.com/0/1207732907689169/1207733343701554
 
 ### **Oyun Açıklaması**
 
-Space Agent, 6 kişiye kadar oynanabilen, oyuncuların birbirleriyle mücadele ettikleri, harita üzerinde çeşitli mini oyunları tamamlayarak ve birbirlerini oyun dışı bırakarak büyük hedefe ulaşmayı amaçladıkları bir 2D oyundur.
-
+Super tower, hedef ve savunma odaklı, kule yapılandırma ve yükseltme hedefli bir strateji oyunudur. 
 
 ### **Oyun Özellikleri**
 - 2D
-- Multiplayer
+- Tower defense oyun mekaniği
 
 
 ### **Hedef Kitle**
-- Rekabetçi oyuncular
-- Çok oyunculu oyun sevenler
+- Strateji Severler
 - Gençler ve genç yetişkinler
-- Puzzle sevenler
-- Strateji sevenler
-- PC oyuncuları
+- Casual Oyuncular
+- Taktiksel Düşünen Oyuncular
+
+
+### **SPRINT-2**
+
+- Sprint içi tamamlanması gereken puan: 12.
+
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken backlog puanı 36'dır. 
+
+- Bu Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+
+
+Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. 
+
+
+Toplantı ve Whatsapp ScreenShotları:
+<img width="239" alt="Ekran Resmi 2024-07-17 21 54 47" src="https://github.com/user-attachments/assets/5b7ca3c3-5fc0-424c-99db-33b2e6536768">
+
+
+
+
+
+
+**Toplantı Notları:**
+
+<img width="516" alt="Ekran Resmi 2024-07-10 12 03 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/a026b260-1767-4b37-b593-9a574611f945">
+
+
+
+
+**Sprint 2 board update: Sprint Board Screenshot:**
+
+<img width="1200" alt="Ekran Resmi 2024-07-07 14 31 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/fcc2af69-5db8-4ebc-a53b-1844fb3c10f7">
+
+
+
+Ürün Durumu Ekran Görüntüleri: 
+  
+![IMG_3485](https://github.com/user-attachments/assets/f842508c-c1f4-4b71-8f14-8accbbfe8ded)
+
+![IMG_3484](https://github.com/user-attachments/assets/635f90c5-2b06-4e30-b987-4172e1beacd5)
+
+![IMG_3483](https://github.com/user-attachments/assets/3c6b0999-d286-494f-bc33-951a001065ae)
+
+### **Sprint Review:**
+
+**Sprint Review katılımcıları:** Abdurrahman Demir, Arif Emre Damarcı, Hazal Karayiğit, Mert Ayhan, Raziye Büşra Gökşin
+
+
+Map ve karakterlerin sayısına, pixel art bir tasarım diline hakim olmasına karar verilmiştir.
+Roller ile ilgili düzenleme yapılmıştır.
+Backlog oluşturularak, görev paylaşımı yapılmıştır.
+Sprint Başlangıç ve Sprint Review toplantıları gerçekleştirilmiştir.
+Product Backlog oluşturulmuştur.
+
+### **Sprint Retrospective:**
+
+Sprint başında iletişim kanalı olarak Slack kullanılırken iletişim aksamalarına neden olduğu için ana iletişim kanalının Whatsapp olmasına karar verilmiştir. 
+Roller ile ilgili düzenleme yapılmıştır.
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+### **Jüriye Not:**
+Takım üyeleri güncellenen takım listesiyle bir araya geldiğinden 25 hazirana kadar herhangi bir çalışma yapmamız mümkün olamamıştır. 
 
 
 ### **SPRINT-1**
@@ -68,12 +127,13 @@ Toplantı ve Whatsapp ScreenShotları:
 
 **Toplantı Notları:**
 
-<img width="516" alt="Ekran Resmi 2024-07-10 12 03 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/a026b260-1767-4b37-b593-9a574611f945">
+
+<img width="471" alt="17 temmuz toplant" src="https://github.com/user-attachments/assets/94d4021f-04c9-41e9-b8d4-d792bfe34efa">
 
 
 
 
-**Sprint 1 board update: Sprint Board Screenshot:**
+**Sprint 2 board update: Sprint Board Screenshot:**
 
 <img width="1200" alt="Ekran Resmi 2024-07-07 14 31 35" src="https://github.com/AbdurrahmanDemir/Bootcamp27/assets/173726397/fcc2af69-5db8-4ebc-a53b-1844fb3c10f7">
 
@@ -101,6 +161,3 @@ Sprint başında iletişim kanalı olarak Slack kullanılırken iletişim aksama
 Roller ile ilgili düzenleme yapılmıştır.
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
-
-### **Jüriye Not:**
-Takım üyeleri güncellenen takım listesiyle bir araya geldiğinden 25 hazirana kadar herhangi bir çalışma yapmamız mümkün olamamıştır. 
