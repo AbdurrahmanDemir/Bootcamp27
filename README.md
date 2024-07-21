@@ -114,11 +114,15 @@ Daily Scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
 
 
 Toplantı ve Whatsapp ScreenShotları:
+
+
 <img width="239" alt="Ekran Resmi 2024-07-17 21 54 47" src="https://github.com/user-attachments/assets/5b7ca3c3-5fc0-424c-99db-33b2e6536768">
 
 
 
 **Toplantı Notları:**
+
+
 
 
 <img width="471" alt="17 temmuz toplant" src="https://github.com/user-attachments/assets/94d4021f-04c9-41e9-b8d4-d792bfe34efa">
